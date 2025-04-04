@@ -1,8 +1,10 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+## 简介
 
-# Getting Started
+这是 `react-navigation-shared-element` 的一个示例项目，用于展示如何使用 `react-navigation-shared-element` 实现共享元素动画。
 
-> **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
+"react-native-shared-element": "^0.9.0-rc0",
+"react-navigation-shared-element": "^3.1.3"
+navigation 导航版本 ：7x 
 
 ## Step 1: Start Metro
 
